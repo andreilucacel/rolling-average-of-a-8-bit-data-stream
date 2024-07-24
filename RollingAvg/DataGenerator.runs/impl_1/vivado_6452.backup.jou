@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri May 31 14:53:25 2024
+# Process ID: 6452
+# Current directory: C:/vivado/DataGenerator/DataGenerator.runs/impl_1
+# Command line: vivado.exe -log average.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source average.tcl -notrace
+# Log file: C:/vivado/DataGenerator/DataGenerator.runs/impl_1/average.vdi
+# Journal file: C:/vivado/DataGenerator/DataGenerator.runs/impl_1\vivado.jou
+# Running On: DESKTOP-F4VS2SM, OS: Windows, CPU Frequency: 3110 MHz, CPU Physical cores: 12, Host memory: 16831 MB
+#-----------------------------------------------------------
+source average.tcl -notrace
